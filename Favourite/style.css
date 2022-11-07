@@ -1,0 +1,9 @@
+img{
+    height: 550px;
+    width: 500px;
+}body{
+    text-align: center;
+    color: white;
+}#home{
+    background:linear-gradient(black 0%, rgb(17, 132, 56) 50%,black 100%);
+}
